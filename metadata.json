@@ -1,0 +1,6 @@
+{
+  "name": "Legacy Barbers",
+  "description": "A premium, minimalist, scroll-driven landing page for a luxury barber shop, combining Apple-inspired sleek motion and storytelling with luxury grooming craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
